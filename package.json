@@ -1,0 +1,10 @@
+{
+  "name": "js-lesson11-challenge-01-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "dependencies": {
+    "typescript": "5.7.2"
+  },
+  "keywords": []
+}
